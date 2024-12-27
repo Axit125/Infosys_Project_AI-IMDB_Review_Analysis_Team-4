@@ -41,10 +41,15 @@ streamlit run app.py
 Open your browser to view the app.
 
 ## Requirements
+
 Python 3.x
+
 streamlit
+
 scikit-learn
+
 pandas
+
 numpy
 
 ## Contributing
