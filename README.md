@@ -27,6 +27,7 @@ This project performs sentiment analysis on IMDB movie reviews using machine lea
 ## 1. Clone the repository:
 
    git clone https://github.com/Axit125/Infosys_Project_AI-IMDB_Review_Analysis_Team-4.git
+   
    cd Infosys_Project_AI-IMDB_Review_Analysis_Team-4
    
 ## 2. Install dependencies:
@@ -36,6 +37,7 @@ pip install -r requirements.txt
 ## 3. Run the Streamlit app:
 
 streamlit run app.py
+
 Open your browser to view the app.
 
 ## Requirements
